@@ -19,7 +19,7 @@ Hello.propTypes = {
   style: shape(),
 };
 
-Hello.defauitProps = {
+Hello.defaultProps = {
   bang: false,
   style: null,
 };
